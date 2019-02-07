@@ -8,4 +8,6 @@ To use mod - connect a Paraglider's `On Abandoned` event to a multiplayer Phoeni
 
 Keep in mind that I have not tested this in a networked environment yet. It works when I'm the only person in the match, but may cause desyncs when another player with the mod is in the game. I will test soon.
 
+Download installer [here](https://github.com/codabrink/FarCry1-Respawning-Paraglider-Mod/releases/download/0.0.1/ParagliderMod.exe).
+
 ![example](https://i.imgur.com/ezVJK8s.jpg)
