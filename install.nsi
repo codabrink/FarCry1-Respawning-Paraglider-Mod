@@ -3,6 +3,7 @@
 !define APPNAME "Far Cry 1 - Paraglider Mod"
 !define APPREGNAME "FC1_ParagliderMod"
 
+SetCompress off
 SetCompressor /FINAL lzma
 Name "Paraglider Mod"
 OutFile "ParagliderMod.exe"
@@ -10,6 +11,7 @@ InstallDirRegKey HKLM "Software\WOW6432Node\GOG.com\Games\1207658750" "Path"
 
 RequestExecutionLevel admin
 
+Page components
 Page directory
 Page instfiles
 
@@ -37,6 +39,12 @@ Section ""
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APPREGNAME}" "NoModify" 1
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${APPREGNAME}" "NoRepair" 1
   WriteUninstaller "uninstall-paraglider-mod.exe"
+SectionEnd
+
+Section "Levels"
+  SetOutPath $INSTDIR\Levels
+  RMDir /r $INSTDIR\Levels\mp_surf_paragliders
+  File /r Levels\*
 SectionEnd
 
 ; Uninstaller

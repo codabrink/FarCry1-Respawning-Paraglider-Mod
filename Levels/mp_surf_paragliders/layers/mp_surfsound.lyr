@@ -1,0 +1,201 @@
+<ObjectLayer>
+ <Layer Exportable="1" External="1" Frozen="0" GUID="{2EE15CFF-D88D-446C-834A-3E76B0B361F5}" Hidden="0" Name="mp_surfsound" >
+  <LayerObjects>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="261" HiddenInGame="0" Id="{20259F03-0F6E-4B2F-B966-0C00691666FF}" Layer="mp_surfsound" LodRatio="100" Name="nighttime animals" Pos="1225.4542,1577.6499,43" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="1" bOnce="0" bPlayFromCenter="0" fScale="0.65" sndpresetSoundPreset="m5nighttimesounds1" />
+   </Object>
+   <Object Angles="0,0,44.999996" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="92" HiddenInGame="0" Id="{B5236A06-49D5-4E5A-AFD5-AB8CD2F3DABB}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity11" Pos="1124.4513,1065.2507,15.371021" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\buildings\m03\compound_area\flyingfox_platform.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+   <Object CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="Ladder" EntityId="87" HiddenInGame="0" Id="{CF7A4908-0510-476C-B596-D8677EA35F8F}" Layer="mp_surfsound" LodRatio="100" Name="Ladder2" Pos="967.65057,1060.0258,22.540712" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bPhysicalize="1" bSingleSided="0" fAngleOffset="0" fHAngleLimit="-1" fileLadderCGF="Objects/Outdoor/towers/sniper_tower_ladder.cgf" LockDist="1" />
+   </Object>
+   <Object Angles="179.99998,3.7115901e-020,-179.99997" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="96" HiddenInGame="0" Id="{232EBD08-D7F4-4F3B-B382-1652F2658CEE}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity10" Pos="1147.2837,1038.0034,39.455311" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\buildings\m05\entrance\m05_floor_4x4.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+   <Object Angles="0,0,-179.99998" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="93" HiddenInGame="0" Id="{13CC1E09-071B-40AF-B1E9-33BA2C7040D6}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity12" Pos="1147.3877,1046.0273,39.653633" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\buildings\m05\entrance\m05_floor_4x4.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+   <Object Angles="0,0,-179.99998" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="Paraglider" EntityId="85" HiddenInGame="0" Id="{356C4717-43A2-45BB-A953-B8B0E797DAE4}" Layer="mp_surfsound" LodRatio="100" Name="Paraglider1" Pos="967.27008,1052.9597,36.449375" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bActive="1" bDrawDriver="0" bTrackable="1" bUserPassanger="0" damping="0.1" fAbandonedTime="15" fileName="objects/Vehicles/glider/glider.cgf" fLimitLRAngles="150" fLimitUDMaxAngles="40" fLimitUDMinAngles="-45" water_damping="1.5" water_resistance="0" />
+    <Properties2 aibehavior_behaviour="Boat_idle" groupid="154" sightrange="180" soundrange="10" />
+    <EventTargets>
+     <EventTarget Event="Reset" SourceEvent="Abandoned" TargetId="{043A68CA-1488-492E-BBDF-3D888D718782}" />
+    </EventTargets>
+   </Object>
+   <Object Angles="0,0,89.999992" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="Ladder" EntityId="89" HiddenInGame="0" Id="{3B5D4C29-ED6C-4BE4-861C-8D0B9E925FFE}" Layer="mp_surfsound" LodRatio="100" Name="Ladder4" Pos="1148.239,1040.0125,28.552837" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bPhysicalize="1" bSingleSided="0" fAngleOffset="0" fHAngleLimit="-1" fileLadderCGF="Objects/Outdoor/towers/sniper_tower_ladder.cgf" LockDist="1" />
+   </Object>
+   <Object Angles="34.995945,0.55917376,-135.82903" CastLightmap="1" CastShadowMaps="0" CastShadows="0" ColorRGB="16777215" Hideable="0" Id="{A7DEC529-D45F-4C93-A102-3D958A480773}" Layer="mp_surfsound" LightmapQuality="1" LodRatio="100" Name="flyingfox_cable_36m2" NotTriangulate="0" OutdoorOnly="0" Pos="1129.0188,1061.844,26.10214" Prefab="Objects\buildings\m03\compound_area\flyingfox_cable_36m.cgf" ReceiveLightmap="1" RecvShadowMaps="1" RndFlags="548" SelfShadowing="0" Type="Brush" ViewDistRatio="100" />
+   <Object Angles="0,0,-89.999992" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="90" HiddenInGame="0" Id="{00CC0C2B-DC1A-4002-96A6-5AB304E1703C}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity5" Pos="1149.2871,1040.8208,39.544304" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\glm\ww2_indust_set1\supports\metalrod_4x.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+   <Object CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="Ladder" EntityId="86" HiddenInGame="0" Id="{2F083A34-E057-4A65-BD98-DD6402989CCF}" Layer="mp_surfsound" LodRatio="100" Name="Ladder1" Pos="967.65277,1060.0417,18.940279" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bPhysicalize="1" bSingleSided="0" fAngleOffset="0" fHAngleLimit="-1" fileLadderCGF="Objects/Outdoor/towers/sniper_tower_ladder.cgf" LockDist="1" />
+   </Object>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="353" HiddenInGame="0" Id="{3C98E737-9CD5-4FD0-A43E-D8B8D6627A01}" Layer="mp_surfsound" LodRatio="100" Name="m5treewildlife" Pos="1310.1232,925.12457,85.061035" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="0" bOnce="0" bPlayFromCenter="0" fScale="1" sndpresetSoundPreset="coolinsects1" />
+   </Object>
+   <Object AreaId="2" Closed="1" ColorRGB="16763904" DisplayFilled="0" GroupId="2" Height="0" Id="{98362840-933D-4C53-AF80-0E9A9F5A6FE4}" Layer="mp_surfsound" Name="tree1" Pos="1009.125,979.875,16.725" Type="Shape" Width="35" >
+    <Points>
+     <Point Pos="0,0,0" />
+     <Point Pos="25.5,-4.625,0.25" />
+     <Point Pos="45.900757,-30.520325,0.4967804" />
+     <Point Pos="36,-45.625,0.375" />
+     <Point Pos="18.5,-54.75,0.5" />
+     <Point Pos="3.125,-55.75,1.125" />
+     <Point Pos="-13.125,-26.375,0.5" />
+     <Point Pos="-6.4901733,-37.712158,-0.62182617" />
+     <Point Pos="-8,-44.5,0.625" />
+     <Point Pos="-18.25,-4.875,0.125" />
+     <Point Pos="-30.25,28.875,0.25" />
+     <Point Pos="-43.25,39,0.25" />
+     <Point Pos="-55.75,44,0.375" />
+     <Point Pos="-65.375,53.75,0.5" />
+     <Point Pos="-64.783447,67.920532,0.82900238" />
+     <Point Pos="-59.875,74.125,0.75" />
+     <Point Pos="-50.5,82.875,0.625" />
+     <Point Pos="-44.625,88.5,0.375" />
+     <Point Pos="-29.5,86.125,0.125" />
+     <Point Pos="-28.75,60.625,0.25" />
+     <Point Pos="-18.125,33.25,0.25" />
+     <Point Pos="-13.025085,7.4647827,0.12248993" />
+    </Points>
+    <Entities>
+     <Entity Id="{2E7BECC0-72CB-411C-9297-15327B9539FB}" />
+    </Entities>
+   </Object>
+   <Object AreaId="-1" BoxMax="500,500,50" BoxMin="-500,-500,0" ColorRGB="16711680" FadeInZone="25" GroupId="0" Height="50" Id="{3E74B345-453E-4D11-81A2-81E4DC2ECE18}" Layer="mp_surfsound" Length="1000" Name="ocean box" Pos="1033.75,1022.62,-28.17" Type="AreaBox" Width="1000" >
+    <Entities>
+     <Entity Id="{D09B00E3-4952-4BF7-9C69-E5DA8FE2D5A4}" />
+    </Entities>
+   </Object>
+   <Object Angles="0,0,43.999996" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="FlyingFox" EntityId="98" HiddenInGame="0" Id="{3A292B4B-2EA2-41C7-AE0F-8DC252577517}" Layer="mp_surfsound" LodRatio="100" Name="FlyingFox1" Pos="1124.8699,1066.1963,21.826088" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties acceleration="0.01" bEnabled="1" destination="ffx1" fileModel="Objects/Buildings/M03/compound_area/flyingfox_seat.cgf" fLimitLRAngles="200" message="@drivefox" velocity="0.005" />
+   </Object>
+   <Object Angles="0,0,89.999992" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="Paraglider" EntityId="97" HiddenInGame="0" Id="{D1069E74-AD9E-47D2-9FDC-261FA8FEBAE4}" Layer="mp_surfsound" LodRatio="100" Name="Paraglider2" Pos="1143.6746,1040.0592,41.034073" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bActive="1" bDrawDriver="0" bTrackable="1" bUserPassanger="0" damping="0.1" fAbandonedTime="15" fileName="objects/Vehicles/glider/glider.cgf" fLimitLRAngles="150" fLimitUDMaxAngles="40" fLimitUDMinAngles="-45" water_damping="1.5" water_resistance="0" />
+    <Properties2 aibehavior_behaviour="Boat_idle" groupid="154" sightrange="180" soundrange="10" />
+    <EventTargets>
+     <EventTarget Event="Reset" SourceEvent="Abandoned" TargetId="{043A68CA-1488-492E-BBDF-3D888D718782}" />
+    </EventTargets>
+   </Object>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="575" HiddenInGame="0" Id="{F38A5E77-96E1-487F-AA30-1285BA3ED007}" Layer="mp_surfsound" LodRatio="100" Name="m3wind" Pos="1220.39,1574.36,43.847717" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="1" bOnce="0" bPlayFromCenter="0" fScale="1.5" sndpresetSoundPreset="m3streamingwind2" />
+   </Object>
+   <Object Angles="0,0,89.999992" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="Ladder" EntityId="88" HiddenInGame="0" Id="{60F68F7B-6C98-4443-9D5F-1F06664684E5}" Layer="mp_surfsound" LodRatio="100" Name="Ladder3" Pos="1148.2213,1040.0132,23.150438" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bPhysicalize="1" bSingleSided="0" fAngleOffset="0" fHAngleLimit="-1" fileLadderCGF="Objects/Outdoor/towers/sniper_tower_ladder.cgf" LockDist="1" />
+   </Object>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="577" HiddenInGame="0" Id="{04A4BE7B-588F-4AA7-AB03-68352235F1B2}" Layer="mp_surfsound" LodRatio="100" Name="m5 island ambient" Pos="1220.5658,1577.5986,43.177643" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="1" bOnce="0" bPlayFromCenter="0" fScale="0.5" sndpresetSoundPreset="m5basiccrickets" />
+   </Object>
+   <Object Angles="0,0,-89.999992" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="95" HiddenInGame="0" Id="{FB155C7C-07C8-4A16-8F1C-974194F0D20A}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity9" Pos="1149.1511,1039.2249,39.601227" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\glm\ww2_indust_set1\supports\metalrod_4x.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+   <Object CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="83" HiddenInGame="0" Id="{3145118A-02D0-459A-A58A-D9153A32636F}" Layer="mp_surfsound" LodRatio="100" Name="wind" Pos="890.75,997.625,18.75" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="0" bOnce="0" bPlayFromCenter="0" fScale="2" sndpresetSoundPreset="m3streamingwind" />
+   </Object>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="581" HiddenInGame="0" Id="{2D711F8B-8941-4BAB-92F1-9F4D17EA9F22}" Layer="mp_surfsound" LodRatio="100" Name="treewind" Pos="1310.2006,923.83142,85.061035" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="0" bOnce="0" bPlayFromCenter="0" fScale="1.15" sndpresetSoundPreset="treewind" />
+   </Object>
+   <Object AreaId="0" Closed="1" ColorRGB="16763904" DisplayFilled="0" GroupId="0" Height="0" Id="{E524579D-78B2-4035-9C25-82BAB0FAD259}" Layer="mp_surfsound" Name="Shape2" Pos="903.625,1002.5,17.225" Type="Shape" Width="0" >
+    <Points>
+     <Point Pos="0,0,0" />
+     <Point Pos="-2.75,9.75,-0.375" />
+     <Point Pos="-11.75,18.375,-0.25" />
+     <Point Pos="-17.5,21.125,-0.25" />
+     <Point Pos="-22.75,19,-0.375" />
+     <Point Pos="-25.375,10.5,-0.375" />
+     <Point Pos="-25.875,3,-0.375" />
+     <Point Pos="-23,-5.375,-0.125" />
+     <Point Pos="-16,-10.25,-0.125" />
+     <Point Pos="-7.875,-9.75,0" />
+     <Point Pos="-2.75,-5.75,0" />
+    </Points>
+   </Object>
+   <Object AreaId="2" Closed="1" ColorRGB="16763904" DisplayFilled="0" GroupId="2" Height="0" Id="{E3D4C9AA-DDFC-48FF-89A5-6E1FB80BF958}" Layer="mp_surfsound" Name="tree2" Pos="1174.5,1037.875,16.975" Type="Shape" Width="35" >
+    <Points>
+     <Point Pos="0,0,0" />
+     <Point Pos="-3.375,-26.75,-0.625" />
+     <Point Pos="-15.75,-45.25,-0.25" />
+     <Point Pos="-39.5,-46.875,0.625" />
+     <Point Pos="-40.297302,-35.549866,-0.87182617" />
+     <Point Pos="-53.25,-19.25,-0.5" />
+     <Point Pos="-58.5,-6.125,0" />
+     <Point Pos="-51.5,6.625,-0.125" />
+     <Point Pos="-51.5,22.5,-0.25" />
+     <Point Pos="-46.625,36.125,0" />
+     <Point Pos="-35.75,42,0" />
+     <Point Pos="-20.375,39.25,0" />
+     <Point Pos="-12.40686,25.91272,0.16087341" />
+    </Points>
+   </Object>
+   <Object AreaId="0" Closed="1" ColorRGB="16763904" DisplayFilled="0" GroupId="0" Height="0" Id="{A965B2B0-FF3F-491E-B633-DF2AA3E5B63A}" Layer="mp_surfsound" Name="M5islandwind" Pos="1983.5819,1515.3336,0.1" Type="Shape" Width="0" >
+    <Points>
+     <Point Pos="0,0,0" />
+     <Point Pos="-1389.6195,3.3647461,0" />
+     <Point Pos="-1386.2549,-1389.6195,0" />
+     <Point Pos="-3.3647461,-1392.9841,0" />
+    </Points>
+    <Entities>
+     <Entity Id="{3145118A-02D0-459A-A58A-D9153A32636F}" />
+    </Entities>
+   </Object>
+   <Object ColorRGB="16711680" Id="{D44E3EB1-D8A7-4BE4-88AA-DAEF17BF67B2}" Layer="mp_surfsound" Name="ffx1" Pos="1146.1519,1043.885,42.531933" Type="Respawn" />
+   <Object Angles="34.995945,0.55917376,-135.82903" CastLightmap="1" CastShadowMaps="0" CastShadows="0" ColorRGB="16777215" Hideable="0" Id="{2088FBB1-B587-4FC7-8F98-5BD1923781B6}" Layer="mp_surfsound" LightmapQuality="1" LodRatio="100" Name="flyingfox_cable_36m1" NotTriangulate="0" OutdoorOnly="0" Pos="1123.9167,1067.1654,20.931103" Prefab="Objects\buildings\m03\compound_area\flyingfox_cable_36m.cgf" ReceiveLightmap="1" RecvShadowMaps="1" RndFlags="548" SelfShadowing="0" Type="Brush" ViewDistRatio="100" />
+   <Object Angles="0,0,-179.99998" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="91" HiddenInGame="0" Id="{FE546AB8-2C39-4AAA-A4FD-5397D8B976B6}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity3" Pos="1147.3821,1042.0327,39.652756" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\buildings\m05\entrance\m05_floor_4x4.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="596" HiddenInGame="0" Id="{269752C0-D27D-497A-A29F-BDEEF487DC36}" Layer="mp_surfsound" LodRatio="100" Name="M3ambient2" Pos="1218.6625,1576.28,43" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="1" bOnce="0" bPlayFromCenter="0" fScale="0.5" sndpresetSoundPreset="m5basiccricket2" />
+   </Object>
+   <Object CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="84" HiddenInGame="0" Id="{2E7BECC0-72CB-411C-9297-15327B9539FB}" Layer="mp_surfsound" LodRatio="100" Name="RandomAmbientSoundPreset3" Pos="973.75,1028.75,18.5" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="0" bOnce="0" bPlayFromCenter="0" fScale="1" sndpresetSoundPreset="coolinsects1" />
+   </Object>
+   <Object CastShadowMaps="0" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="598" HiddenInGame="0" Id="{24DB8DCF-0F12-4A00-B97C-0B5B0C84955E}" Layer="mp_surfsound" LodRatio="100" Name="m5treecricket" Pos="1309.533,926.49127,85.140923" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="0" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="0" bOnce="0" bPlayFromCenter="0" fScale="1" sndpresetSoundPreset="coolinsects1" />
+   </Object>
+   <Object CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="RandomAmbientSoundPreset" EntityId="82" HiddenInGame="0" Id="{D09B00E3-4952-4BF7-9C69-E5DA8FE2D5A4}" Layer="mp_surfsound" LodRatio="100" Name="ocean sounds" Pos="893.125,997,18.625" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="Entity" ViewDistRatio="100" >
+    <Properties bLIndoorOnly="0" bLOutdoorOnly="0" bOnce="0" bPlayFromCenter="0" fScale="2" sndpresetSoundPreset="M3shoreline" />
+   </Object>
+   <Object Angles="179.99998,3.7115901e-020,-179.99997" CastShadowMaps="1" CastShadows="0" ColorRGB="65535" EntityClass="BasicEntity" EntityId="94" HiddenInGame="0" Id="{BBB261FE-ECFB-4AB6-8FDD-9D692BF37B45}" Layer="mp_surfsound" LodRatio="100" Name="BasicEntity13" Pos="1147.2893,1041.998,39.453636" PreCalcShadows="0" ReceiveLightmap="0" RecvShadowMaps="1" SelfShadowing="0" SkipOnLowSpec="0" Type="SimpleEntity" ViewDistRatio="100" >
+    <Properties aianchorAIAction="" damage_players="0" fAnchorRadius="0" object_Model="Objects\buildings\m05\entrance\m05_floor_4x4.cgf" sndAnimStart="" sndAnimStop="" >
+     <Animation Animation="Default" bLoop="0" bPlaying="0" Speed="1" />
+     <Physics bActivateOnDamage="0" bFixedDamping="0" bResting="0" bRigidBody="0" bRigidBodyActive="1" bUseSimpleSolver="0" damping="0" Density="-1" Mass="700" max_time_step="0.01" sleep_speed="0.04" Type="Unknown" vector_Impulse="1,2,3" water_damping="0" water_density="1000" water_resistance="1000" >
+      <LowSpec bKeepMassAndWater="1" bKeepRigidBody="1" bRigidBody="0" Density="-1" Mass="700" max_time_step="0.025" sleep_speed="0.04" water_density="1000" water_resistance="1000" />
+     </Physics>
+    </Properties>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>
