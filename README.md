@@ -1,4 +1,10 @@
 # FarCry1-Respawning-Paraglider-Mod
+
+### Important Note
+    This does not work in it's current state. It'll cause multiplayer games to crash.
+    In order to get this to work, the paraglider needs to "die" first, before respawning.
+    I haven't had the time to fix this yet.
+
 A mod for FarCry1 to allow for Paragliders to respawn with the onAbandon hook in the editor. (Multiplayer)
 
 Built for GOG.com's release of FarCry1, but should technically work with any FarCry1 release.
